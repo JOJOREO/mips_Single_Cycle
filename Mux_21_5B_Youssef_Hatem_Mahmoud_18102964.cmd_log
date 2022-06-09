@@ -1,0 +1,1 @@
+vhdtdtfi -prj mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964 -o "F:/xilinix projects/mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964/Mux_21_5B_Youssef_Hatem_Mahmoud_18102964.vhi" -module Mux_21_5B_Youssef_Hatem_Mahmoud_18102964 -template F:/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Mux_21_5B_Youssef_Hatem_Mahmoud_18102964.vhd 

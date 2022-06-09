@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/xilinix projects/mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964/Mips_Youssef_Hatem_Mahmoud_18102964_isim_beh.exe" -prj "F:/xilinix projects/mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964/Mips_Youssef_Hatem_Mahmoud_18102964_beh.prj" "work.Mips_Youssef_Hatem_Mahmoud_18102964" 

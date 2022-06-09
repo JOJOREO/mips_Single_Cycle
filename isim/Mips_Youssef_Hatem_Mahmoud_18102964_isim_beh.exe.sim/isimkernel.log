@@ -1,0 +1,30 @@
+Command line:
+   Mips_Youssef_Hatem_Mahmoud_18102964_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64538
+
+Wed Jun 09 14:15:50 2021
+
+
+ Elaboration Time: 0.234375 sec
+
+ Current Memory Usage: 5163.91 Meg
+
+ Total Signals          : 102
+ Total Nets             : 3649
+ Total Signal Drivers   : 36
+ Total Blocks           : 20
+ Total Primitive Blocks : 19
+ Total Processes        : 24
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 4150
+In process dataMemory_Youssef_hatem_mahmoud_18102964.vhd:55 
+ 
+
+ Total Simulation Time: 0.625 sec
+
+ Current Memory Usage: 5006.62 Meg
+
+Wed Jun 09 14:18:02 2021
+

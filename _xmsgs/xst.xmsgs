@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 47: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 48: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 49: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 50: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 51: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 52: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 53: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Alu_Youssef_Hatem_Mahmoud_18102964.vhd" Line 56: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mux_21_32B_Youssef_Hatem_Mahmoud_18102964.vhd" Line 47: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mux_21_32B_Youssef_Hatem_Mahmoud_18102964.vhd" Line 48: <arg fmt="%s" index="1">b</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mux_21_5B_Youssef_Hatem_Mahmoud_18102964.vhd" Line 49: <arg fmt="%s" index="1">a</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mux_21_5B_Youssef_Hatem_Mahmoud_18102964.vhd" Line 50: <arg fmt="%s" index="1">b</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Register_File_Youssef_Hatem_Mahmoud_18102964.vhd" Line 72: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Register_File_Youssef_Hatem_Mahmoud_18102964.vhd" Line 73: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">220</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Alu_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Alu_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">221</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Pc_Adder_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Adder_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">222</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Branch_Adder_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Adder_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">224</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Alu_Ctrl_unit_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Alu_Ctrl_unit_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">225</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Ctrl_Unit_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Ctrl_Unit_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">226</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Instruction_Memory_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Instruction_Memory_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">227</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Alu_Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">229</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_DataMemory_Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Branch_Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux_21_32B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">232</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Pc_to_inst_memory_Mux_21_5B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux_21_5B_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">233</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Register_File_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Register_File_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">234</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Shift_Left_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Shift_Left_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">235</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_Sign_extend_Youssef_Hatem_Mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">Sign_extend_Youssef_Hatem_Mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">236</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_dataMemory_Youssef_hatem_mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">dataMemory_Youssef_hatem_mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%d" index="2">238</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_pc_Youssef_Hatem_mahmoud_18102964</arg>&gt; of block &lt;<arg fmt="%s" index="4">pc_Youssef_Hatem_mahmoud_18102964</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Mips_Youssef_Hatem_Mahmoud_18102964</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">F:\xilinix projects\mips_Single_Cycle_Youssf_hatem_Mahmoud_18102964\Mips_Youssef_Hatem_Mahmoud_18102964.vhd</arg>&quot; line <arg fmt="%s" index="2">222</arg>: Output port &lt;<arg fmt="%s" index="3">output</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Inst_Branch_Adder_Youssef_Hatem_Mahmoud_18102964</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+</messages>
+
